@@ -66,9 +66,3 @@ Assuming numpy, base64, and zlib modules installed, run the test examples like t
     Offset = 0.03478 seconds
 
 See comments in the C++ section.
-
-## FAQ
-
-Q: Can I use this yet?
-
-A: No. The current API doesn't return synchstrings yet.
